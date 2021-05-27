@@ -1,4 +1,5 @@
 let coin_flipped = Math.floor((Math.random() * 10) % 2);
+
 let Heads = 0;
 let Tails = 1;
 
