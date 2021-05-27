@@ -1,6 +1,8 @@
 let number = Math.floor(Math.random() * 10);
 console.log("number entered: " + number);
+
 switch (number) {
+    
   case 0:
     console.log("zero");
   case 1:
