@@ -1,6 +1,7 @@
 let date = new Date();
 let day = date.getDate();
 let month = date.getMonth();
+
 console.log(month);
 console.log(day);
 
