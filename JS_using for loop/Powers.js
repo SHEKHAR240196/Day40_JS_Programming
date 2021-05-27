@@ -11,4 +11,4 @@ rl.question("Enter a Number ? ", function(number) {
        
      }
       console.log(powers);
-  });
+  }); 
