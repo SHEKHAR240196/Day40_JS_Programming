@@ -1,5 +1,6 @@
 let number2 = Math.floor(1 + ((Math.random() * 10) % 7));
 console.log("number entered: " + number2);
+
 switch (number2) {
   case 1:
     console.log("SUNDAY");
