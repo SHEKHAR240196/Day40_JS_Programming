@@ -6,7 +6,7 @@ const readline = require("readline").createInterface({
   
   readline.question("Enter a number", (inputNumber) => {
     //number = inputNumber;
-    switch(inputNumber) {
+    switch (inputNumber) {
         case 1 :
                 console.log("One");
                 break;
