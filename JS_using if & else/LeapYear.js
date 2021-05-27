@@ -1,4 +1,5 @@
 let year = new Date().getFullYear();
+
 if (year % 4 == 0) {
   if (year % 100 != 0) {
     console.log(year + " is leap year!");
