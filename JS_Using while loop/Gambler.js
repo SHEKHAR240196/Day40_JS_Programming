@@ -1,7 +1,7 @@
 bet = 1;
 wonCount = 0;
 lostCount = 0;
-money = 100;
+money = 100; 
 broke = 0;
 goal = 200;
 count = 0;
