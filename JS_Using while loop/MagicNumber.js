@@ -7,7 +7,7 @@ flag = 0;
 mid = 0;
 
 let InputNum = prompt("Enter a number: ");
-InputNum = Number(InputNum);
+InputNum = Number(InputNum); 
 
 while(flag == 0){
     mid = Math.floor(lowerLimit + upperLimit) / 2;
