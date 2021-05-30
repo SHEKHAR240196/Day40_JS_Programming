@@ -5,7 +5,7 @@ let i = 0;
 while(i < number){
     let power = 2**i;
     i++;
-    console.log(power);
+    console.log(power); 
     if(power == 256){
         break;
     }
