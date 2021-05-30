@@ -5,7 +5,7 @@ while (head < 11 && tail < 11) {
 	if (coin == 1) {
 		head++;
 	} else {
-		tail++;
+		tail++; 
 	}
 }
 console.log("Heads count: " + head +  "\nTails count: " + tail);
