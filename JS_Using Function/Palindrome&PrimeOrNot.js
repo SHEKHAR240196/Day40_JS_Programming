@@ -11,7 +11,7 @@ function palindrome () {
         number = Math.floor(number / 10);
     }    
     if(reverse == temp){
-        console.log("is a palindrome number");
+        console.log("is a palindrome number"); 
     }else{
         console.log("not a palindrom number");
     }
