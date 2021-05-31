@@ -19,7 +19,7 @@ console.log('2. Fehrenheit to Celcius');
 
 let choice = prompt("enter your choice: ");
 let number = prompt("enter a number: ");
-
+ 
 number = Number(number);
 choice = Number(choice);
 
