@@ -6,7 +6,7 @@ function palindrome () {
     reverse = 0
 
     while(number > 0){
-        reminder = number % 10;
+        reminder = number % 10; 
         reverse = reminder + (reverse * 10);
         number = Math.floor(number / 10);
     }    
